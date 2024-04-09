@@ -1,0 +1,18 @@
+{
+    "user": {
+        "joe@doe.com": {
+            "instagram": {
+                "joedoe@email.com" : "1234"
+            },
+            "facebook": {
+                "joedoe@email.com" : "123deoliveira4"
+            },
+            "github": {
+                "joe@doe.com" : "gitgit123"
+            },
+            "e-mail": {
+                "joe@doe.com" : "emailjoedoe123"
+            }
+        }
+    }
+}

@@ -6,7 +6,7 @@ Pass Pro will be avaiable as mobile app. Our app will help users at managing
 their passwords or even generating it for them.
 
 
-# About
+## About
 
 It will have a simple use. The user can store any password or notes they want,
 and also create passwords ou pass phrases. In order to organize it in the best
@@ -19,3 +19,14 @@ When creating a password, the users could also select if they want a password or
 a passphrase.
 
 It will be automatic generated for user with the choises they made, like length, capitalized or not letters, numbers or special characters.
+
+
+## Installation
+
+```
+pip install passpro
+```
+
+```
+pip install -e '.[dev]'
+```
